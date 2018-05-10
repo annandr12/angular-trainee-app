@@ -1,0 +1,13 @@
+.menu {
+  padding: 10px 0 20px;
+}
+.menu-item {
+  padding: 5px 10px;
+  text-decoration: none;
+  background-color: #ccc;
+  border-radius: 3px;
+  color: black;
+}
+.active {
+  border: 2px solid #ffc107;
+}

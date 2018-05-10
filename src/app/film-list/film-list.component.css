@@ -1,0 +1,21 @@
+ul {
+  padding: 0;
+}
+li {
+  list-style: none;
+  padding: 10px;
+  border: 1px dashed #ccc;
+  border-radius: 10px;
+  margin-bottom: 5px;
+}
+.film-title {
+  color: #ffc107;
+  font-weight: bold;
+  transition: text-shadow .1s linear;
+  cursor: pointer;
+}
+.film-title:hover {
+  text-shadow: 2px 1px #dee2e6;
+  text-decoration: none;
+
+}
